@@ -1,0 +1,12 @@
+app:
+  name: 'load balancing'
+  version: '1.0.0'
+
+http:
+  port: 3030
+
+logger:
+  log_level: 'debug'
+
+
+
